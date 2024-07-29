@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
+<img width="1834" alt="RV banner" src="https://github.com/user-attachments/assets/dd91646f-3271-420f-9983-042cc678e2e4">
 
 <h1 align="center">Hi 👋, I'm Roshan Hari Bachhav</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
