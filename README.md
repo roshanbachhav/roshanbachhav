@@ -1,50 +1,91 @@
-
-<img width="1834" alt="RV banner" src="https://github.com/user-attachments/assets/dd91646f-3271-420f-9983-042cc678e2e4">
-
-<h1 align="center">Hi 👋, I'm Roshan Hari Bachhav</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
-
-<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NiNzJhMWFkMTdmNzgwNGVkMWY3OTI2MmM5ZmRjNjNlZWNiMWY3YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanbachhav&label=Profile%20views&color=0e75b6&style=flat" alt="roshanbachhav" /> </p>
-
-- 🔭 I’m currently working on **MERN Stack**
-
-- 🌱 I’m currently learning **REACT JS**
-
-- 👨‍💻 All of my projects are available at [https://roshanbachhav.online](https://roshanbachhav.online)
-
-- 💬 Ask me about **Software Develope , Software Design**
-
-- 📫 How to reach me **bachhavroshan600@gmail.com**
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.roshan_bachhav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roshan-bachhav) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/roshanbachhav18) 
-
-<h3 align="left">🌐 Socially Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/roshanbachhav18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/roshanbachhav18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roshan-bachhav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshan-bachhav/" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.roshan_bachhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.roshan_bachhav" height="30" width="40" /></a>
+<!-- Replace the line below with your banner image. Put the image in your repo (e.g. /assets/banner.png) or paste a hosted URL. -->
+<p align="center">
+  <img src="./assets/banner.png" alt="Roshan Hari Bachhav - Full-Stack Developer" width="100%" />
 </p>
 
+<h1 align="center">Hi, I'm Roshan Hari Bachhav 👋</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=roshanbachhav&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=roshanbachhav&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanbachhav&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <b>Full-Stack Web Developer</b> · MERN / PERN · PHP (Laravel · CodeIgniter) · Multi-Tenant SaaS
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=roshanbachhav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=roshanbachhav18)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://roshanbachhav.online"><img src="https://img.shields.io/badge/Portfolio-roshanbachhav.online-FFC83D?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/roshan-bachhav/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bachhavroshan600@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=roshanbachhav&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🚀 About Me
+
+I'm a Full-Stack Developer based in Nashik, India, with **1+ year of professional experience** at Anantkamal Tech Labs and **5+ months delivering freelance SaaS projects** end-to-end. I build production-grade applications across the MERN, PERN, and PHP (Laravel / CodeIgniter) stacks.
+
+- 🏗️ I specialise in **multi-tenant SaaS architecture** (database-per-tenant), role-based access control, and real-time systems.
+- 🔐 Comfortable across the full delivery cycle — from architecture and auth (JWT, 2FA, OAuth) to cloud integrations (AWS S3, Stripe) and live deployment.
+- 🎓 Currently pursuing my **MCA at Sandip University** (Grade A); BSc Computer Science — 87%.
+- 💬 Ask me about React 19, Node/Express, Laravel, PostgreSQL, and Socket.IO.
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Backend**
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **ElitePic CRM** | Multi-tenant SaaS for UK immigration & sponsor licensing — database-per-tenant isolation, 2FA, Stripe billing, full case lifecycle, Google Meet / MS Teams OAuth. | React 19 · Express 5 · Sequelize · PostgreSQL · Socket.IO · Stripe |
+| **[HappyWedz](https://happywedz.com/)** | Large-scale multi-vendor wedding platform — vendor/venue listings, live photo galleries, eCommerce module, three-layer RBAC. | PERN + MERN · AWS S3 · Socket.IO · JWT |
+| **Urban Gate** | Multi-tenant SaaS ERP for housing societies — gate access, marketplace, document storage, ticketing, separate DB per tenant. | Laravel · Sanctum · PostgreSQL · React 19 · TS |
+| **[DeckCraft](https://deckcraft.anantkamalsoftwarelabs.com/)** | Online presentation platform with a live in-slide HTML/CSS/JS code editor and a custom presentation player — no third-party slideshow library. | MERN · TanStack Query · Tailwind |
+
+**Personal projects:** [RV GameStore](https://github.com/roshanbachhav/Gamestore-Webapp) (Spring Boot) · [Streamify](https://github.com/roshanbachhav/Streamify) (React + TMDB) · [Buy Finite](https://github.com/roshanbachhav/Buy-Finite) (Laravel eCommerce)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=roshanbachhav&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=FFC83D&title_color=FFC83D" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanbachhav&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFC83D" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanbachhav&theme=dark&hide_border=true&background=0D1117&ring=FFC83D&fire=FFC83D&currStreakLabel=FFC83D" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to full-stack and SaaS development opportunities — let's build something.</i>
+</p>
