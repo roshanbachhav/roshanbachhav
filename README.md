@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **REACT JS**
 
-- 👨‍💻 All of my projects are available at [https://roshan-portfolio.rf.gd/](https://roshan-portfolio.rf.gd/)
+- 👨‍💻 All of my projects are available at [https://roshanbachhav.online](https://roshanbachhav.online)
 
 - 💬 Ask me about **Software Develope , Software Design**
 
